@@ -11,6 +11,14 @@ VS-Code clone with HTML & CSS
   </a> 
 </p>
 
+<br>
+<br>
+
+## Live Project
+
+Check out the live version of the VS-Code Clone [here](https://vs-code-psi.vercel.app/).
+
+
 <h3>Preview of VS-Code Clone</h3>
 
 
