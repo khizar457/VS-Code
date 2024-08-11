@@ -14,10 +14,11 @@ VS-Code clone with HTML & CSS
 <h3>Preview of VS-Code Clone</h3>
 
 
-![Part-1](https://github.com/khizar457/Amazon-Clone/blob/main/assets/demo_pics/Part-1.jpg)
-
-
-![Part-2](https://github.com/khizar457/Amazon-Clone/blob/main/assets/demo_pics/Part-2.jpg)
+![Part-1](https://github.com/khizar457/VS-Code/blob/main/assets/1-demo.png)
+![Part-2](https://github.com/khizar457/VS-Code/blob/main/assets/2-demo.png)
+![Part-3](https://github.com/khizar457/VS-Code/blob/main/assets/3-demo.png)
+![Part-4](https://github.com/khizar457/VS-Code/blob/main/assets/4-demo.png)
+![Part-5](https://github.com/khizar457/VS-Code/blob/main/assets/5-demo.png)
 
 ## Note:
 Feel free to explore the project, experiment with the code, and enhance your understanding of HTML & CSS concepts. Happy coding! 🚀
